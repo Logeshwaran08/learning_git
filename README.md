@@ -1,2 +1,2 @@
 # learning_git
-tis my repo to learn and practice git
+this repo is my first branch comment line
